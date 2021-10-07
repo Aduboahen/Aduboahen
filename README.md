@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aduboahen
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & R
 - 💞️ I’m looking to collaborate on Bioinformatics
 - 📫 I can be reached at oseimensa@outlook.com oseimensa@kccr.de
 
